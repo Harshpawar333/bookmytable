@@ -1,0 +1,18 @@
+.tabContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.buttons {
+  background-color: rgb(96 73 73) !important;
+}
+.buttons:hover {
+  border-radius: 10px;
+  background-color: #198754 !important;
+}
+.tabtext {
+  text-align: center;
+  font-size: larger;
+  margin-top: 100px;
+  font-weight: bold;
+}
